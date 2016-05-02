@@ -1,6 +1,5 @@
 export default class OrderXhrService {
     static saveOrder(order) {
-    	debugger;
         return new Promise((resolve, reject) => { 
         	$.ajax({
 		      type: 'POST',
