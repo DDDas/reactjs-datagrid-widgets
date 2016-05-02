@@ -1,0 +1,1 @@
+import orderResource from './order/order.resource';
